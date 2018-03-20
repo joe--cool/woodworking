@@ -6,7 +6,7 @@ The *arc_tool.py* is used to calculate the measurements when drawing an arc on a
 
 ## Setup Instructions
 
-*prerequisite:*  Insure python 2.7 and pip is installed on your machine.
+**Prerequisite:**  Insure python 2.7 and pip is installed on your machine.
 
 If *pipenv* isn't already installed, install it now using:
 
