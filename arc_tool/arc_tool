@@ -1,0 +1,7 @@
+import argparse
+
+
+parser = argparse.ArgumentParser(description="This tool is for calculating an arc on a piece of wood.  See README.md for details.")
+
+
+
